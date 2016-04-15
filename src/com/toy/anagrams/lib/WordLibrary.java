@@ -33,6 +33,7 @@ package com.toy.anagrams.lib;
 
 /**
  * Interface defining logic for the Anagram Game application.
+ * アナグラムゲームアプリケーションのための論理定義するインターフェース(接点)
  */
 public abstract class WordLibrary {
     /**
