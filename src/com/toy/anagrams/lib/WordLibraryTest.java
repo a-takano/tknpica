@@ -37,6 +37,7 @@ import junit.framework.TestCase;
 
 /**
  * Test of the functionality of {@link WordLibrary}.
+ * 機能テスト
  */
 public class WordLibraryTest extends TestCase {
     WordLibrary wordLibrary;

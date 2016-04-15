@@ -40,6 +40,7 @@ import javax.swing.JFrame;
 
 /**
  * About dialog of the Anagram Game application.
+ * アナグラムゲームアプリケーションのダイアログ(対話)
  */
 public class About extends JDialog {
 
